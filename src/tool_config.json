@@ -1,0 +1,5 @@
+{
+  "description": "This is a tool that that delivers the most downloaded model for a specific task. Input is e.g. text-generation. Returns modelIs as String.",
+  "name": "most_downloaded_model",
+  "tool_class": "most_downloaded_model.MostDownloadedModelTool"
+}
